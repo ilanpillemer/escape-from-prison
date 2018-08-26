@@ -5,5 +5,5 @@
 
 * Founder : EP
 * Coders  : EP, Mousy, IP
-* Editor  : EP, Mousy
+* Editor  : EP, Mousy, Doughnut
 * Drawer  : Doughnut
